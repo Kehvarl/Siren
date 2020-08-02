@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "AdamCorbett 7/31/2020 20:42",
+	"super" : "Object",
+	"category" : "Siren",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"postUser",
+		"postFont",
+		"postColor",
+		"postText",
+		"postTime"
+	],
+	"name" : "SirenPost",
+	"type" : "normal"
+}
