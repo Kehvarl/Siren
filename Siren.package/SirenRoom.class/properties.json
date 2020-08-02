@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "AdamCorbett 8/2/2020 15:29",
+	"super" : "Object",
+	"category" : "Siren",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"posts",
+		"users"
+	],
+	"name" : "SirenRoom",
+	"type" : "normal"
+}

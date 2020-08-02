@@ -1,0 +1,1 @@
+I represent a Siren chat room and it's collected posts.
