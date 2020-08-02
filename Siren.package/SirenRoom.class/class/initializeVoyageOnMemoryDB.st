@@ -1,0 +1,3 @@
+class initialization
+initializeVoyageOnMemoryDB
+	VOMemoryRepository  new enableSingleton.

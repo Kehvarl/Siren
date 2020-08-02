@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Siren-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"room",
+		"post",
+		"first",
+		"previousRepository"
+	],
+	"name" : "SirenRoomTest",
+	"type" : "normal"
+}
