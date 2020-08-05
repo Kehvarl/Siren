@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "AdamCorbett 8/4/2020 18:57",
+	"super" : "WAComponent",
+	"category" : "Siren-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"main"
+	],
+	"name" : "SirenApplicationRootComponent",
+	"type" : "normal"
+}
