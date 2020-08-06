@@ -1,0 +1,1 @@
+I an the base screen layout component for Siren.
