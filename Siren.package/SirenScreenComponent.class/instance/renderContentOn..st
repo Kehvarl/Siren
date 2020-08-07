@@ -1,4 +1,4 @@
-initialization
+rendering
 renderContentOn: html 
 		html tbsContainer: [ 
 		html tbsRow 
