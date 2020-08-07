@@ -1,4 +1,4 @@
-initialization
+rendering
 renderPostColumnOn: html 
 	html tbsColumn
 		extraSmallSize: 12;
