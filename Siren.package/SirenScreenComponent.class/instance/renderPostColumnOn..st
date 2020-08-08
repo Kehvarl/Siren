@@ -5,4 +5,5 @@ renderPostColumnOn: html
 		smallSize: 10;
 		mediumSize: 8;
 		with: [ 
-			html label: 'test'. ].
+			html text: 'test2'.
+			html text: 'test3.' ].
