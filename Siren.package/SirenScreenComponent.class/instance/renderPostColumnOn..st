@@ -6,4 +6,5 @@ renderPostColumnOn: html
 		mediumSize: 8;
 		with: [ 
 			html text: 'test2'.
+			html break.
 			html text: 'test3.' ].
