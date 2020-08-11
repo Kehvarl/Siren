@@ -1,0 +1,3 @@
+accessing
+room
+	^ SirenRoom current.

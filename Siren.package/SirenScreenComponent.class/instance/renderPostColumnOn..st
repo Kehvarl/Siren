@@ -5,6 +5,5 @@ renderPostColumnOn: html
 		smallSize: 10;
 		mediumSize: 8;
 		with: [ 
-			html text: 'test2'.
-			html break.
-			html text: 'test3.' ].
+			(self room allPosts)  do: [  :p |
+				html render: (self postComponentFor: p) ] ].

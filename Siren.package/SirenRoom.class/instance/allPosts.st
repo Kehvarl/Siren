@@ -1,3 +1,3 @@
 accessing
 allPosts
-	^ posts.
+	^ posts

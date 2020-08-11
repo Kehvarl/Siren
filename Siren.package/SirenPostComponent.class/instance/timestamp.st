@@ -1,0 +1,3 @@
+accessing
+timestamp
+	^ post timestamp 
