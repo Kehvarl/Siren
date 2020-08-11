@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "AdamCorbett 8/10/2020 19:16",
+	"super" : "WAComponent",
+	"category" : "Siren-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"post"
+	],
+	"name" : "SirenPostComponent",
+	"type" : "normal"
+}
