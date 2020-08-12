@@ -1,4 +1,3 @@
 rendering
 renderContentOn: html 
-		html tbsContainer: [ 
-			self renderPostColumnOn: html ].
+		html div: [ self renderPostsOn: html ].
