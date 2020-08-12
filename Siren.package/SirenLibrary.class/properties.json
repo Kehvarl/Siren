@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AdamCorbett 8/11/2020 21:05",
+	"super" : "WAFileLibrary",
+	"category" : "Siren-Misc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SirenLibrary",
+	"type" : "normal"
+}
