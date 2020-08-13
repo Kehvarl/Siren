@@ -1,3 +1,3 @@
 rendering
 renderContentOn: html 
-		html div: [ self renderPostsOn: html ].
+	html render: header.
