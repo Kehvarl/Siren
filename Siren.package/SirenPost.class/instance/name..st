@@ -1,3 +1,3 @@
 accessing
-name: aString 
-	postUser := aString
+name: aName 
+	postUser := aName

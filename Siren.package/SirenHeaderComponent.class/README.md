@@ -1,0 +1,1 @@
+I represent a generic Header for Siren Chat
