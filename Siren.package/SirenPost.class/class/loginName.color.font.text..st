@@ -1,7 +1,7 @@
 instance creation
-name:  aName color: aColor font: fontString text: textString
+loginName:  aName color: aColor font: fontString text: textString
 	^ self new
-		type: #normal;
+		type: #login;
 		name: aName;
 		color: aColor;
 		font: fontString;
