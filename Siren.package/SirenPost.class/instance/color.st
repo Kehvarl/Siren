@@ -1,3 +1,3 @@
 accessing
 color
-	^ postColor
+	^ postUser color

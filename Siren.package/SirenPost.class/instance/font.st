@@ -1,3 +1,3 @@
 accessing
 font
-	^ postFont
+	^ postUser font
