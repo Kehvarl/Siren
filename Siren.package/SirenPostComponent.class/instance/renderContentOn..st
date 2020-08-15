@@ -1,6 +1,6 @@
 rendering
 renderContentOn: html
-	post name isEmpty
+	post type == #Login
 	ifTrue: 
 		[ self renderSystemPostOn: html ]
 	ifFalse:
