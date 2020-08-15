@@ -1,3 +1,3 @@
 accessing
 color: aColor 
-	postColor := aColor
+	postUser color: aColor

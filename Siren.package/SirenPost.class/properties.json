@@ -8,8 +8,6 @@
 	"instvars" : [
 		"postType",
 		"postUser",
-		"postFont",
-		"postColor",
 		"postText",
 		"postTime"
 	],

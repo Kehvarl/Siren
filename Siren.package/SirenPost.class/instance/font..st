@@ -1,3 +1,3 @@
 accessing
 font: aString 
-	postFont := aString.
+	postUser font: aString.
