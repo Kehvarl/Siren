@@ -5,7 +5,9 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"text"
+	],
 	"name" : "SirenChatComponent",
 	"type" : "normal"
 }
