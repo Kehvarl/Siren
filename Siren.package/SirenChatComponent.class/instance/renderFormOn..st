@@ -2,9 +2,10 @@ rendering
 renderFormOn: html 
 	html tbsForm  with:[ 
 			html textArea 
-				tbsFormControl.
+				tbsFormControl
+				callback: [ :value | self text: value ].
 			html tbsButton 
 				beDanger;
-				callback: [  ];
+				callback: [ self writePost ];
 				with: 'Post'
 			] .
