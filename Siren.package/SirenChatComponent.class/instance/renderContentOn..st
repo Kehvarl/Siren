@@ -4,4 +4,6 @@ renderContentOn: html
 		html tbsContainer: [ 
 			self renderNamesOn: html. 
 			self renderPostsOn: html.
-			self renderFormOn: html. ].
+			self isLoggedIn 
+				ifTrue: [ self renderFormOn: html ]
+				ifFalse: [ self renderLoginFormOn: html ] ].

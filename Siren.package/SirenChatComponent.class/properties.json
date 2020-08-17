@@ -6,6 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
+		"isLoggedIn",
+		"chatter",
 		"text"
 	],
 	"name" : "SirenChatComponent",

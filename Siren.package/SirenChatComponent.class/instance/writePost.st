@@ -1,5 +1,3 @@
 commands
 writePost
-	| chatter |
-	chatter := SirenName name: 'test' color: (Color white) font: 'Arial'.
-	self room writePost: (SirenPost name: chatter text: (self text)).
+	self room writePost: (SirenPost name: (self chatter) text: (self text)).
