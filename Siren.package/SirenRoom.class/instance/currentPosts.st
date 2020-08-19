@@ -1,3 +1,5 @@
 accessing
 currentPosts
-	^ posts last: 10
+	(posts size >= 10)
+		ifTrue:	[^ posts last: 10]
+		ifFalse: [ ^ posts ]
