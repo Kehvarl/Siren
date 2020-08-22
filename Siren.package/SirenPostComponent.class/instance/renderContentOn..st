@@ -2,6 +2,6 @@ rendering
 renderContentOn: html
 	post type = #login
 	ifTrue: 
-		[ self renderSystemPostOn: html ]
+		[ self renderLoginPostOn: html ]
 	ifFalse:
 		[ self renderNormalPostOn: html ]
