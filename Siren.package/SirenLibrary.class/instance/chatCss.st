@@ -10,4 +10,9 @@ body {
 .name{
 	font-weight: bold;
 }
+
+.time { 
+	font-size: .5em;
+	font-style: small-caps;
+ }
 '.
