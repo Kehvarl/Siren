@@ -19,3 +19,4 @@ Siren Chat random thoughts
       /Rooms/admin
       /Rooms/<room>/logs?from=date&to=date
   
+Ref: TinyChat-server
